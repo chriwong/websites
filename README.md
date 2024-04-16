@@ -11,6 +11,7 @@
 
 ## Articles
 |Name/Topic|Description|URL|
+|-|-|-|
 |Bartosz Ciechanowski|this guy has beautiful breakdowns of machines & physics|[https://ciechanow.ski/sound/](https://ciechanow.ski/sound/)|
 |"Double-Entry Bookkeeping as a Directed Graph"|Basics of accounting|[https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 |"Radios, how do they work?"|Basics of radios|[https://lcamtuf.substack.com/p/radios-how-do-they-work](https://lcamtuf.substack.com/p/radios-how-do-they-work)|
