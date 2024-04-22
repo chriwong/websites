@@ -39,3 +39,4 @@
 |Oh My Git|Learn git|[https://ohmygit.org/](https://ohmygit.org/)|
 |Guess my RGB|Guess RGB values|[https://susam.net/myrgb.html](https://susam.net/myrgb.html)|
 |Little Workshop|Studio that makes three.js + WebGL projects|[https://www.littleworkshop.fr/](https://www.littleworkshop.fr/)|
+|Simon Tatham's Portable Puzzle Collection|Some straightforward (if old-looking) cross-platform (Java applet, JS in browser, .exe) puzzle games|[https://www.chiark.greenend.org.uk/~sgtatham/puzzles/](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)|
