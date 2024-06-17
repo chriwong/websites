@@ -33,6 +33,13 @@
 
 <br />
 
+## Podcasts/Interviews
+|Name|Description|URL|
+|-|-|-|
+|CoRecursive - "From Burnout to Breakthrough: An Academic's Quest to Rethink Coding Education"|Interview with Felienne Hermans, professor who created a new Pythonic language called Hedy for pedagogic purposes|[https://corecursive.com/hedy-with-felienne-hermans/](https://corecursive.com/hedy-with-felienne-hermans/)|
+
+<br />
+
 ## Games/Demos
 |Name|Description|URL|
 |-|-|-|
