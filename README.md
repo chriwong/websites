@@ -21,6 +21,7 @@
 |"From the Circle to Epicycle - an animated introduction to Fourier series|Fourier series|[https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)|
 |"The darker side of being a doctor"|UK(?) doctor dies by his own hand; another doctor writes about how hard the profession is|[https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)| 
 |"Obituary for a Quiet Life"|Writing about his grandfather who lived a quiet life|[https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)|
+|"Notes on Tajikistan"|guy's travel notes on the eastern European country and the "Stans"|https://mattlakeman.org/2024/06/20/notes-on-tajikistan/[](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)|
 
 <br />
 
