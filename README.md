@@ -23,6 +23,8 @@
 |"The darker side of being a doctor"|UK(?) doctor dies by his own hand; another doctor writes about how hard the profession is|[https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)| 
 |"Obituary for a Quiet Life"|Writing about his grandfather who lived a quiet life|[https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)|
 |"Notes on Tajikistan"|guy's travel notes on the eastern European country and the "Stans"|https://mattlakeman.org/2024/06/20/notes-on-tajikistan/[](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)|
+|See How It Flies|All things aviation and how planes fly|[https://www.av8n.com/how/](https://www.av8n.com/how/)|
+|Convolutions, Fast Fourier Transform, and polynomials|Name|[https://news.ycombinator.com/item?id=40840396](https://news.ycombinator.com/item?id=40840396)|
 
 <br />
 
@@ -32,6 +34,7 @@
 |Squoosh|Google Labs image compression|[https://squoosh.app/](https://squoosh.app/)|
 |Monodraw for macOS|Draw ASCII art|[https://monodraw.helftone.com/](https://monodraw.helftone.com/)|
 |Trangram|OSS Online Animation editor|[https://www.trangram.com/](https://www.trangram.com/)|
+|Pikimov|Online open-source After Effects alternative|[https://pikimov.com/](https://pikimov.com/)|
 
 <br />
 
