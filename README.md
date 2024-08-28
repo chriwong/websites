@@ -9,6 +9,7 @@
 |Museo Nacional Del Prado Virtual|High definition virtual walkthrough|[https://www.museodelprado.es/visita-virtual-coleccion-2023](https://www.museodelprado.es/visita-virtual-coleccion-2023)|
 |Roche Biochemical Pathways|A giant poster that has most of the human body's biochemical pathways|[https://biochemical-pathways.com/#/map/1](https://biochemical-pathways.com/#/map/1)|
 |Code Galaxies|Visualization of programmer-related things (NuGet/npm/pypi/RubyGems) as POV-traversable galaxies|[https://anvaka.github.io/pm](https://anvaka.github.io/pm)|
+|Monospace Websites|Aggregation of monospaced font web designs, tools, experiments|[https://wonger.dev/posts/monospace-dump#web](https://wonger.dev/posts/monospace-dump#web), [https://news.ycombinator.com/from?site=owickstrom.github.io](https://news.ycombinator.com/from?site=owickstrom.github.io)|
 
 <br />
 
