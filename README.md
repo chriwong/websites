@@ -26,6 +26,7 @@
 |"Notes on Tajikistan"|guy's travel notes on the eastern European country and the "Stans"|https://mattlakeman.org/2024/06/20/notes-on-tajikistan/[](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)|
 |See How It Flies|All things aviation and how planes fly|[https://www.av8n.com/how/](https://www.av8n.com/how/)|
 |Convolutions, Fast Fourier Transform, and polynomials|Name|[https://news.ycombinator.com/item?id=40840396](https://news.ycombinator.com/item?id=40840396)|
+|The secret inside One Million Checkboxes|Recap of one person's pet project that went viral and how a group of young fun hackers made it their own|[https://eieio.games/essays/the-secret-in-one-million-checkboxes/](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)|
 
 <br />
 
@@ -36,6 +37,7 @@
 |Monodraw for macOS|Draw ASCII art|[https://monodraw.helftone.com/](https://monodraw.helftone.com/)|
 |Trangram|OSS Online Animation editor|[https://www.trangram.com/](https://www.trangram.com/)|
 |Pikimov|Online open-source After Effects alternative|[https://pikimov.com/](https://pikimov.com/)|
+|Seats.aero|Airline flight search for travel rewards|[https://seats.aero/](https://seats.aero/)|
 
 <br />
 
