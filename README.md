@@ -27,6 +27,7 @@
 |See How It Flies|All things aviation and how planes fly|[https://www.av8n.com/how/](https://www.av8n.com/how/)|
 |Convolutions, Fast Fourier Transform, and polynomials|Name|[https://news.ycombinator.com/item?id=40840396](https://news.ycombinator.com/item?id=40840396)|
 |The secret inside One Million Checkboxes|Recap of one person's pet project that went viral and how a group of young fun hackers made it their own|[https://eieio.games/essays/the-secret-in-one-million-checkboxes/](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)|
+|Interview with Brian Goetz|Language architect at Oracle|[https://freecontent.manning.com/interview-with-brian-goetz/](https://freecontent.manning.com/interview-with-brian-goetz/)|
 
 <br />
 
