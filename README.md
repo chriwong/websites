@@ -38,8 +38,9 @@
 |Squoosh|Google Labs image compression|[https://squoosh.app/](https://squoosh.app/)|
 |Monodraw for macOS|Draw ASCII art|[https://monodraw.helftone.com/](https://monodraw.helftone.com/)|
 |Trangram|OSS Online Animation editor|[https://www.trangram.com/](https://www.trangram.com/)|
-|Pikimov|Online open-source After Effects alternative|[https://pikimov.com/](https://pikimov.com/)|
+|Pikimov|Online open source After Effects alternative|[https://pikimov.com/](https://pikimov.com/)|
 |Seats.aero|Airline flight search for travel rewards|[https://seats.aero/](https://seats.aero/)|
+|Graphite|Web-based open source 2D graphics editor|[https://graphite.rs/](https://graphite.rs/)|
 
 <br />
 
