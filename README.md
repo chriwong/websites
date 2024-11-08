@@ -29,6 +29,7 @@
 |The secret inside One Million Checkboxes|Recap of one person's pet project that went viral and how a group of young fun hackers made it their own|[eieio.games/essays/the-secret-in-one-million-checkboxes/](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)|-|
 |Interview with Brian Goetz|Language architect at Oracle|[freecontent.manning.com/interview-with-brian-goetz/](https://freecontent.manning.com/interview-with-brian-goetz/)|-|
 |The Secret Lives of Data - Raft|Visualization of the Raft consensus algorithm|[thesecretlivesofdata.com/raft/](https://thesecretlivesofdata.com/raft/)|-|
+|Stabilizing the Obra Dinn 1-bit dithering process|Developer of "Return of the Obra Dinn" gives a walkthrough of how he accomplished dithering|[forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)|[42084080](https://news.ycombinator.com/item?id=42084080)|
 
 <br />
 
@@ -61,6 +62,7 @@
 |Guess my RGB|Guess RGB values|[susam.net/myrgb.html](https://susam.net/myrgb.html)|-|
 |Little Workshop|Studio that makes three.js + WebGL projects|[www.littleworkshop.fr/](https://www.littleworkshop.fr/)|-|
 |Simon Tatham's Portable Puzzle Collection|Some straightforward (if old-looking) cross-platform (Java applet, JS in browser, .exe) puzzle games|[www.chiark.greenend.org.uk/~sgtatham/puzzles/](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)|-|
+|Rounan Jouchet games list|Guy who responded to the Obra Dinn post above has a curated list of games for various demographics (non-gamers, puzzlers, partyers, etc.)|[ronan.jouchet.fr/games](https://ronan.jouchet.fr/games?list=nongamer)|[42084080#42087499](https://news.ycombinator.com/item?id=42084080#42087499)|
 
 <br />
 
