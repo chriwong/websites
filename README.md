@@ -10,6 +10,7 @@
 |Roche Biochemical Pathways|A giant poster that has most of the human body's biochemical pathways|[biochemical-pathways.com/#/map/1](https://biochemical-pathways.com/#/map/1)|-|
 |Code Galaxies|Visualization of programmer-related things (NuGet/npm/pypi/RubyGems) as POV-traversable galaxies|[anvaka.github.io/pm](https://anvaka.github.io/pm)|-|
 |Monospace Websites|Aggregation of monospaced font web designs, tools, experiments|[wonger.dev/posts/monospace-dump#web](https://wonger.dev/posts/monospace-dump#web), [news.ycombinator.com/from?site=owickstrom.github.io](https://news.ycombinator.com/from?site=owickstrom.github.io)|-|
+|astronaut.io|Feed of random videos uploaded to YouTube in the past few minutes|[astronaut.io/#](http://astronaut.io/)|[42102506](https://news.ycombinator.com/item?id=42102506)|
 
 <br />
 
