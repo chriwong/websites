@@ -31,6 +31,7 @@
 |Interview with Brian Goetz|Language architect at Oracle|[freecontent.manning.com/interview-with-brian-goetz/](https://freecontent.manning.com/interview-with-brian-goetz/)|-|
 |The Secret Lives of Data - Raft|Visualization of the Raft consensus algorithm|[thesecretlivesofdata.com/raft/](https://thesecretlivesofdata.com/raft/)|-|
 |Stabilizing the Obra Dinn 1-bit dithering process|Developer of "Return of the Obra Dinn" gives a walkthrough of how he accomplished dithering|[forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)|[42084080](https://news.ycombinator.com/item?id=42084080)|
+|Lessons from my First Exit|Hardware-software founder shares practical insights into the process of selling his company|[mtlynch.io/lessons-from-my-first-exit/](https://mtlynch.io/lessons-from-my-first-exit/)|[42133864](https://news.ycombinator.com/item?id=42133864)|
 
 <br />
 
