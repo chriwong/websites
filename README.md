@@ -25,13 +25,15 @@
 |"The darker side of being a doctor"|UK(?) doctor dies by his own hand; another doctor writes about how hard the profession is|[drericlevi.substack.com/p/the-darker-side-of-being-a-doctor](https://drericlevi.substack.com/p/the-darker-side-of-being-a-doctor)|-|
 |"Obituary for a Quiet Life"|Writing about his grandfather who lived a quiet life|[bittersoutherner.com/feature/2023/obituary-for-a-quiet-life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)|-|
 |"Notes on Tajikistan"|guy's travel notes on the eastern European country and the "Stans"|[https://mattlakeman.org/2024/06/20/notes-on-tajikistan/](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)|-|
-|See How It Flies|All things aviation and how planes fly|[www.av8n.com/how/](https://www.av8n.com/how/)|
-|Convolutions, Fast Fourier Transform, and polynomials|Name|[news.ycombinator.com/item?id=40840396](https://news.ycombinator.com/item?id=40840396)|-|
-|The secret inside One Million Checkboxes|Recap of one person's pet project that went viral and how a group of young fun hackers made it their own|[eieio.games/essays/the-secret-in-one-million-checkboxes/](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)|-|
-|Interview with Brian Goetz|Language architect at Oracle|[freecontent.manning.com/interview-with-brian-goetz/](https://freecontent.manning.com/interview-with-brian-goetz/)|-|
-|The Secret Lives of Data - Raft|Visualization of the Raft consensus algorithm|[thesecretlivesofdata.com/raft/](https://thesecretlivesofdata.com/raft/)|-|
-|Stabilizing the Obra Dinn 1-bit dithering process|Developer of "Return of the Obra Dinn" gives a walkthrough of how he accomplished dithering|[forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)|[42084080](https://news.ycombinator.com/item?id=42084080)|
-|Lessons from my First Exit|Hardware-software founder shares practical insights into the process of selling his company|[mtlynch.io/lessons-from-my-first-exit/](https://mtlynch.io/lessons-from-my-first-exit/)|[42133864](https://news.ycombinator.com/item?id=42133864)|
+|"See How It Flies"|All things aviation and how planes fly|[www.av8n.com/how/](https://www.av8n.com/how/)|
+|"Convolutions, Fast Fourier Transform, and polynomials"|Math lesson|[news.ycombinator.com/item?id=40840396](https://news.ycombinator.com/item?id=40840396)|[40840396](https://news.ycombinator.com/item?id=40840396)|
+|"The secret inside One Million Checkboxes"|Recap of one person's pet project that went viral and how a group of young fun hackers made it their own|[eieio.games/essays/the-secret-in-one-million-checkboxes/](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)|-|
+|"Interview with Brian Goetz"|Language architect at Oracle|[freecontent.manning.com/interview-with-brian-goetz/](https://freecontent.manning.com/interview-with-brian-goetz/)|-|
+|"The Secret Lives of Data - Raft"|Visualization of the Raft consensus algorithm|[thesecretlivesofdata.com/raft/](https://thesecretlivesofdata.com/raft/)|-|
+|"Stabilizing the Obra Dinn 1-bit dithering process"|Developer of "Return of the Obra Dinn" gives a walkthrough of how he accomplished dithering|[forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)|[42084080](https://news.ycombinator.com/item?id=42084080)|
+|"Lessons from my First Exit"|Hardware-software founder shares practical insights into the process of selling his company|[mtlynch.io/lessons-from-my-first-exit/](https://mtlynch.io/lessons-from-my-first-exit/)|[42133864](https://news.ycombinator.com/item?id=42133864)|
+|"You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths"|`htmx` developer gives some tips for writing MPAs.  Comment section has good questions/advice|[htmx.org/essays/you-cant](https://htmx.org/essays/you-cant/)|[42164154](https://news.ycombinator.com/item?id=42164154)|
+|"Virtual DOM is pure overhead"|Short article in which Svelte developer explains what virtual DOM is and some downfalls|[svelte.dev/blog/virtual-dom-is-pure-overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)|[34612162](https://news.ycombinator.com/item?id=34612162)|
 
 <br />
 
