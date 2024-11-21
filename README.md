@@ -47,6 +47,7 @@
 |Seats.aero|Airline flight search for travel rewards|[seats.aero/](https://seats.aero/)|-|
 |Graphite|Web-based open source 2D graphics editor|[graphite.rs/](https://graphite.rs/)|-|
 |Excalidraw|Web-based diagram editor (think draw.io) that I actually like|[excalidraw.com/](https://excalidraw.com/)|[42044771](https://news.ycombinator.com/item?id=42044771)|
+|Cycling Routing apps|see comments for more|-|[42197754](https://news.ycombinator.com/item?id=42197754)|
 
 <br />
 
