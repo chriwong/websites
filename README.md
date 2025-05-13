@@ -75,3 +75,4 @@
 |Name|Description|URL|HN Post|
 |-|-|-|-|
 |Data Visualization in R|Data visualization in R|[datavizs23.classes.andrewheiss.com/](https://datavizs23.classes.andrewheiss.com/)|-|
+|Plain Vanilla Web|Guides on webdev without frameworks|[https://plainvanillaweb.com](https://plainvanillaweb.com/index.html)|[43954896](https://news.ycombinator.com/item?id=43954896)|
