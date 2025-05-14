@@ -34,6 +34,7 @@
 |"Lessons from my First Exit"|Hardware-software founder shares practical insights into the process of selling his company|[mtlynch.io/lessons-from-my-first-exit/](https://mtlynch.io/lessons-from-my-first-exit/)|[42133864](https://news.ycombinator.com/item?id=42133864)|
 |"You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths"|`htmx` developer gives some tips for writing MPAs.  Comment section has good questions/advice|[htmx.org/essays/you-cant](https://htmx.org/essays/you-cant/)|[42164154](https://news.ycombinator.com/item?id=42164154)|
 |"Virtual DOM is pure overhead"|Short article in which Svelte developer explains what virtual DOM is and some downfalls|[svelte.dev/blog/virtual-dom-is-pure-overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)|[34612162](https://news.ycombinator.com/item?id=34612162)|
+|"Intentionally Making Close Friends"|How a guy intentionally made close friends and lessons from his work|[https://www.neelnanda.io/blog/](https://www.neelnanda.io/blog/43-making-friends)|[43619032](https://news.ycombinator.com/item?id=43619032)|
 
 <br />
 
@@ -77,3 +78,9 @@
 |Data Visualization in R|Data visualization in R|[datavizs23.classes.andrewheiss.com/](https://datavizs23.classes.andrewheiss.com/)|-|
 |Plain Vanilla Web|Guides on webdev without frameworks|[https://plainvanillaweb.com](https://plainvanillaweb.com/index.html)|[43954896](https://news.ycombinator.com/item?id=43954896)|
 |tixy intro|learn some math and Javascript graphics using a niche code golf-esque thing|[https://www.mathsuniverse.com/tixy](https://www.mathsuniverse.com/tixy)|[found in comments of 43942881](https://news.ycombinator.com/item?id=43942881)|
+|A Deep dive into SVG Path Commands|Interactive site teaching SVG pathing|[https://www.nan.fyi/svg-paths](https://www.nan.fyi/svg-paths)|from a comment in [43666439](https://news.ycombinator.com/item?id=43666439)|
+
+## Talks/Conferences
+|Name|Description|URL|HN Post|
+|-|-|-|-|
+|SVG can do THAT?|Intro to SVG|[YouTube](https://youtu.be/ADXX4fmWHbo)|from a comment in [43666439](https://news.ycombinator.com/item?id=43666439)|
