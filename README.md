@@ -76,3 +76,4 @@
 |-|-|-|-|
 |Data Visualization in R|Data visualization in R|[datavizs23.classes.andrewheiss.com/](https://datavizs23.classes.andrewheiss.com/)|-|
 |Plain Vanilla Web|Guides on webdev without frameworks|[https://plainvanillaweb.com](https://plainvanillaweb.com/index.html)|[43954896](https://news.ycombinator.com/item?id=43954896)|
+|tixy intro|learn some math and Javascript graphics using a niche code golf-esque thing|[https://www.mathsuniverse.com/tixy](https://www.mathsuniverse.com/tixy)|[found in comments of 43942881](https://news.ycombinator.com/item?id=43942881)|
