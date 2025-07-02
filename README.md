@@ -1,6 +1,6 @@
 # Websites
 
-## hackernews
+## cool things
 |Name|Description|URL|HN Post|
 |-|-|-|-|
 |Map Happenings|Developer blog about mapping softwares|[maphappenings.com/about/](https://maphappenings.com/about/)|
@@ -9,12 +9,12 @@
 |Museo Nacional Del Prado Virtual|High definition virtual walkthrough|[www.museodelprado.es/visita-virtual-coleccion-2023](https://www.museodelprado.es/visita-virtual-coleccion-2023)|-|
 |Roche Biochemical Pathways|A giant poster that has most of the human body's biochemical pathways|[biochemical-pathways.com/#/map/1](https://biochemical-pathways.com/#/map/1)|-|
 |Code Galaxies|Visualization of programmer-related things (NuGet/npm/pypi/RubyGems) as POV-traversable galaxies|[anvaka.github.io/pm](https://anvaka.github.io/pm)|-|
-|Monospace Websites|Aggregation of monospaced font web designs, tools, experiments|[wonger.dev/posts/monospace-dump#web](https://wonger.dev/posts/monospace-dump#web), [news.ycombinator.com/from?site=owickstrom.github.io](https://news.ycombinator.com/from?site=owickstrom.github.io)|-|
+|Monospace Websites|Aggregation of monospaced font drawings (ASCII art), tools, experiments|[wonger.dev/posts/monospace-dump#web](https://wonger.dev/posts/monospace-dump#web), [news.ycombinator.com/from?site=owickstrom.github.io](https://news.ycombinator.com/from?site=owickstrom.github.io)|-|
 |astronaut.io|Feed of random videos uploaded to YouTube in the past few minutes|[astronaut.io/#](http://astronaut.io/)|[42102506](https://news.ycombinator.com/item?id=42102506)|
 
 <br />
 
-## Articles
+## Non-software Development Articles
 |Name/Topic|Description|URL|HN Post|
 |-|-|-|-|
 |Bartosz Ciechanowski|this guy has beautiful breakdowns of machines & physics|[ciechanow.ski/sound/](https://ciechanow.ski/sound/)|-|
@@ -27,14 +27,24 @@
 |"Notes on Tajikistan"|guy's travel notes on the eastern European country and the "Stans"|[https://mattlakeman.org/2024/06/20/notes-on-tajikistan/](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)|-|
 |"See How It Flies"|All things aviation and how planes fly|[www.av8n.com/how/](https://www.av8n.com/how/)|
 |"Convolutions, Fast Fourier Transform, and polynomials"|Math lesson|[news.ycombinator.com/item?id=40840396](https://news.ycombinator.com/item?id=40840396)|[40840396](https://news.ycombinator.com/item?id=40840396)|
+|"Lessons from my First Exit"|Hardware-software founder shares practical insights into the process of selling his company|[mtlynch.io/lessons-from-my-first-exit/](https://mtlynch.io/lessons-from-my-first-exit/)|[42133864](https://news.ycombinator.com/item?id=42133864)|
+|"Intentionally Making Close Friends"|How a guy intentionally made close friends and lessons from his work|[https://www.neelnanda.io/blog/](https://www.neelnanda.io/blog/43-making-friends)|[43619032](https://news.ycombinator.com/item?id=43619032)|
+
+<br />
+
+## Software Articles/Interactive Learning
+|Name/Topic|Description|URL|HN Post|
+|-|-|-|-|
+|Data Visualization in R|Data visualization in R|[datavizs23.classes.andrewheiss.com/](https://datavizs23.classes.andrewheiss.com/)|-|
+|Plain Vanilla Web|Guides on webdev without frameworks|[https://plainvanillaweb.com](https://plainvanillaweb.com/index.html)|[43954896](https://news.ycombinator.com/item?id=43954896)|
+|tixy intro|learn some math and Javascript graphics using a niche code golf-esque thing|[https://www.mathsuniverse.com/tixy](https://www.mathsuniverse.com/tixy)|[found in comments of 43942881](https://news.ycombinator.com/item?id=43942881)|
+|A Deep dive into SVG Path Commands|Interactive site teaching SVG pathing|[https://www.nan.fyi/svg-paths](https://www.nan.fyi/svg-paths)|from a comment in [43666439](https://news.ycombinator.com/item?id=43666439)|
 |"The secret inside One Million Checkboxes"|Recap of one person's pet project that went viral and how a group of young fun hackers made it their own|[eieio.games/essays/the-secret-in-one-million-checkboxes/](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)|-|
-|"Interview with Brian Goetz"|Language architect at Oracle|[freecontent.manning.com/interview-with-brian-goetz/](https://freecontent.manning.com/interview-with-brian-goetz/)|-|
+|"Interview with Brian Goetz" (text)|Java language architect at Oracle|[freecontent.manning.com/interview-with-brian-goetz/](https://freecontent.manning.com/interview-with-brian-goetz/)|-|
 |"The Secret Lives of Data - Raft"|Visualization of the Raft consensus algorithm|[thesecretlivesofdata.com/raft/](https://thesecretlivesofdata.com/raft/)|-|
 |"Stabilizing the Obra Dinn 1-bit dithering process"|Developer of "Return of the Obra Dinn" gives a walkthrough of how he accomplished dithering|[forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)|[42084080](https://news.ycombinator.com/item?id=42084080)|
-|"Lessons from my First Exit"|Hardware-software founder shares practical insights into the process of selling his company|[mtlynch.io/lessons-from-my-first-exit/](https://mtlynch.io/lessons-from-my-first-exit/)|[42133864](https://news.ycombinator.com/item?id=42133864)|
 |"You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths"|`htmx` developer gives some tips for writing MPAs.  Comment section has good questions/advice|[htmx.org/essays/you-cant](https://htmx.org/essays/you-cant/)|[42164154](https://news.ycombinator.com/item?id=42164154)|
 |"Virtual DOM is pure overhead"|Short article in which Svelte developer explains what virtual DOM is and some downfalls|[svelte.dev/blog/virtual-dom-is-pure-overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)|[34612162](https://news.ycombinator.com/item?id=34612162)|
-|"Intentionally Making Close Friends"|How a guy intentionally made close friends and lessons from his work|[https://www.neelnanda.io/blog/](https://www.neelnanda.io/blog/43-making-friends)|[43619032](https://news.ycombinator.com/item?id=43619032)|
 
 <br />
 
@@ -71,14 +81,6 @@
 |Rounan Jouchet games list|Guy who responded to the Obra Dinn post above has a curated list of games for various demographics (non-gamers, puzzlers, partyers, etc.)|[ronan.jouchet.fr/games](https://ronan.jouchet.fr/games?list=nongamer)|[42084080#42087499](https://news.ycombinator.com/item?id=42084080#42087499)|
 
 <br />
-
-## Learning
-|Name|Description|URL|HN Post|
-|-|-|-|-|
-|Data Visualization in R|Data visualization in R|[datavizs23.classes.andrewheiss.com/](https://datavizs23.classes.andrewheiss.com/)|-|
-|Plain Vanilla Web|Guides on webdev without frameworks|[https://plainvanillaweb.com](https://plainvanillaweb.com/index.html)|[43954896](https://news.ycombinator.com/item?id=43954896)|
-|tixy intro|learn some math and Javascript graphics using a niche code golf-esque thing|[https://www.mathsuniverse.com/tixy](https://www.mathsuniverse.com/tixy)|[found in comments of 43942881](https://news.ycombinator.com/item?id=43942881)|
-|A Deep dive into SVG Path Commands|Interactive site teaching SVG pathing|[https://www.nan.fyi/svg-paths](https://www.nan.fyi/svg-paths)|from a comment in [43666439](https://news.ycombinator.com/item?id=43666439)|
 
 ## Talks/Conferences
 |Name|Description|URL|HN Post|
