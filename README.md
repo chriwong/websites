@@ -51,6 +51,7 @@
 ## Tools
 |Name|Description|URL|HN Post|
 |-|-|-|-|
+|Transparent Textures|Generate CSS for colored background textures|[transparenttextures.com](https://www.transparenttextures.com)|taken from [eev.ee](https://eev.ee)|
 |Squoosh|Google Labs image compression|[squoosh.app/](https://squoosh.app/)|-|
 |Monodraw for macOS|Draw ASCII art|[monodraw.helftone.com/](https://monodraw.helftone.com/)|-|
 |Trangram|OSS Online Animation editor|[www.trangram.com/](https://www.trangram.com/)|-|
