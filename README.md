@@ -32,19 +32,26 @@
 
 <br />
 
-## Software Articles/Interactive Learning
+## Software articles/references
+|Name/Topic|Description|URL|HN Post|
+|-|-|-|-|
+|Plain Vanilla Web|Guides on webdev without frameworks|[https://plainvanillaweb.com](https://plainvanillaweb.com/index.html)|[43954896](https://news.ycombinator.com/item?id=43954896)|
+|"You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths"|`htmx` developer gives some tips for writing MPAs.  Comment section has good questions/advice|[htmx.org/essays/you-cant](https://htmx.org/essays/you-cant/)|[42164154](https://news.ycombinator.com/item?id=42164154)|
+|"The least amount of CSS for a decent looking site"|Hyper-simple starting point for from-scratch CSS. Comments say the author has other useful articles|[https://thecascade.dev/article/least-amount-of-css/](https://thecascade.dev/article/least-amount-of-css/)|[45497624](https://news.ycombinator.com/item?id=45497624)|
+
+<br />
+
+## Articles/Deeper dives
 |Name/Topic|Description|URL|HN Post|
 |-|-|-|-|
 |Data Visualization in R|Data visualization in R|[datavizs23.classes.andrewheiss.com/](https://datavizs23.classes.andrewheiss.com/)|-|
-|Plain Vanilla Web|Guides on webdev without frameworks|[https://plainvanillaweb.com](https://plainvanillaweb.com/index.html)|[43954896](https://news.ycombinator.com/item?id=43954896)|
 |tixy intro|learn some math and Javascript graphics using a niche code golf-esque thing|[https://www.mathsuniverse.com/tixy](https://www.mathsuniverse.com/tixy)|[found in comments of 43942881](https://news.ycombinator.com/item?id=43942881)|
 |A Deep dive into SVG Path Commands|Interactive site teaching SVG pathing|[https://www.nan.fyi/svg-paths](https://www.nan.fyi/svg-paths)|from a comment in [43666439](https://news.ycombinator.com/item?id=43666439)|
 |"The secret inside One Million Checkboxes"|Recap of one person's pet project that went viral and how a group of young fun hackers made it their own|[eieio.games/essays/the-secret-in-one-million-checkboxes/](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)|-|
 |"Interview with Brian Goetz" (text)|Java language architect at Oracle|[freecontent.manning.com/interview-with-brian-goetz/](https://freecontent.manning.com/interview-with-brian-goetz/)|-|
 |"The Secret Lives of Data - Raft"|Visualization of the Raft consensus algorithm|[thesecretlivesofdata.com/raft/](https://thesecretlivesofdata.com/raft/)|-|
 |"Stabilizing the Obra Dinn 1-bit dithering process"|Developer of "Return of the Obra Dinn" gives a walkthrough of how he accomplished dithering|[forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)|[42084080](https://news.ycombinator.com/item?id=42084080)|
-|"You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths"|`htmx` developer gives some tips for writing MPAs.  Comment section has good questions/advice|[htmx.org/essays/you-cant](https://htmx.org/essays/you-cant/)|[42164154](https://news.ycombinator.com/item?id=42164154)|
-|"Virtual DOM is pure overhead"|Short article in which Svelte developer explains what virtual DOM is and some downfalls|[svelte.dev/blog/virtual-dom-is-pure-overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)|[34612162](https://news.ycombinator.com/item?id=34612162)|
+|"Virtual DOM is pure overhead"|Short article in which Svelte developer explains what virtual DOM is and some downfalls|[svelte.dev/blog/virtual-dom-is-pure-overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)|[34612162](https://news.ycombinator.com/item?id=34612162)| 
 
 <br />
 
